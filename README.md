@@ -7,9 +7,7 @@
 ### Building modern web applications with AI and Full Stack technologies.
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=9D4EDD&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies"/>
-<p align="center">
-<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284126-5f3fcbf8-b36e-44db-9d75-8d8d91dbf0aa.gif" width="80">
 
 <br>
 
