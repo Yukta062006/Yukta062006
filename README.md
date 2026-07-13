@@ -2,11 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,50:302B63,100:24243E&text=Yukta%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%20•%20%20AI%20Enthusiast%20%20•%20%20Open%20Source%20Contributor&descSize=20&descAlignY=60"/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;AI+Powered+Solutions;Open+Source+Contributor;Always+Learning+New+Technologies;Welcome+to+My+GitHub"/>
-
-</div>
-
 # Hi, I'm Yukta Thakur 👋
 
 ### Building modern web applications with AI and Full Stack technologies.
@@ -66,18 +61,6 @@ I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate
 | 🤖 AI App Generator | Generate modern full-stack applications using AI prompts. |
 | 💊 Hermaa | AI healthcare assistant for symptom analysis and wellness recommendations. |
 | 🎓 College Discovery Platform | Discover and compare colleges with intelligent search and recommendations. |
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yukta062006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukta062006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
