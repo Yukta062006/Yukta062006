@@ -65,9 +65,7 @@ I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate
 # Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yukta062006&theme=tokyo-night"/>
-
+  <img src="https://raw.githubusercontent.com/Yukta062006/Yukta062006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
