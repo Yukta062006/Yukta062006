@@ -8,7 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=9D4EDD&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216655846-6d31f6ca-0b0b-45ec-a7f3-8c49e0d2f4c7.gif" width="80">
+<p align="center">
+<img width="420" src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif">
+</p>
 <br>
 
 <a href="https://github.com/Yukta062006">
