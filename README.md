@@ -45,9 +45,7 @@ I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate
 # Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgresql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,vercel&perline=9"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,firebase,supabase,mongodb,mysql,postgresql,git,github,vscode,figma,postman,vercel,vite&perline=9" />
 </p>
 
 ---
