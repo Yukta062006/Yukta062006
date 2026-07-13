@@ -2,6 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,50:302B63,100:24243E&text=Yukta%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%20•%20%20AI%20Enthusiast%20%20•%20%20Open%20Source%20Contributor&descSize=20&descAlignY=60"/>
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,25,30&text=Yukta%20Thakur&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=63"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;AI+Powered+Solutions;Open+Source+Contributor;Always+Learning+New+Technologies;Welcome+to+My+GitHub"/>
+
+</div>
+
 # Hi, I'm Yukta Thakur 👋
 
 ### Building modern web applications with AI and Full Stack technologies.
