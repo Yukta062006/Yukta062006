@@ -45,7 +45,7 @@ I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,firebase,supabase,mongodb,mysql,postgresql,git,github,vscode,figma,postman,vercel,vite&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nextjs,nodejs,mongodb,firebase,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -54,11 +54,11 @@ I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate
 
 | Project | Description |
 |---------|-------------|
-| 🌾 CropWise AI Copilot | AI-powered smart farming platform for crop disease detection and weather intelligence. |
-| 💼 NextHire | AI-powered recruitment platform with resume screening and candidate matching. |
-| 🤖 AI App Generator | Generate modern full-stack applications using AI prompts. |
-| 💊 Hermaa | AI healthcare assistant for symptom analysis and wellness recommendations. |
-| 🎓 College Discovery Platform | Discover and compare colleges with intelligent search and recommendations. |
+| ~ CropWise AI Copilot | AI-powered smart farming platform for crop disease detection and weather intelligence. |
+| ~ NextHire | AI-powered recruitment platform with resume screening and candidate matching. |
+| ~ AI App Generator | Generate modern full-stack applications using AI prompts. |
+| ~ Hermaa | AI healthcare assistant for symptom analysis and wellness recommendations. |
+| ~ College Discovery Platform | Discover and compare colleges with intelligent search and recommendations. |
 
 ---
 
