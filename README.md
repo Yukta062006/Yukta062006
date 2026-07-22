@@ -37,38 +37,26 @@
 <img src="https://komarev.com/ghpvc/?username=Yukta062006&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 
 </p>
+
 ---
 
 ## 💫 About Me
 
-<table>
-<tr>
+<p align="center">
+I'm <strong>Yukta Thakur</strong>, a B.Tech Computer Science & Engineering student passionate about building scalable web applications, AI-powered solutions, and impactful digital experiences.
+</p>
 
-<td width="60%">
+<p align="center">
+I love transforming ideas into real-world products through modern technologies and continuous learning.
+</p>
 
-I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate about building scalable web applications, AI-powered solutions, and modern digital experiences.
-
-I enjoy transforming ideas into real-world products through **Full Stack Development**, **Artificial Intelligence**, and **Open Source** collaboration while continuously expanding my technical expertise.
-
-### Areas of Interest
-
-- Full Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Modern UI/UX Development
-- Open Source Contribution
-- Scalable Software Development
-- Continuous Learning
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257464-1dc03683-ba49-44a8-9850-f5978b1b7c8b.gif" width="300"/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://img.shields.io/badge/Full%20Stack-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-DC2626?style=for-the-badge"/>
+</p>
 
 ---
 
