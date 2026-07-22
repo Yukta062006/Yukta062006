@@ -40,7 +40,7 @@
 
 ---
 
-## 💫 About Me
+# About Me
 
 <p align="center">
 I'm <strong>Yukta Thakur</strong>, a B.Tech Computer Science & Engineering student passionate about building scalable web applications, AI-powered solutions, and impactful digital experiences.
