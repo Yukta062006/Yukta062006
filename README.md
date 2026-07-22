@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,50:302B63,100:24243E&text=Yukta%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%20•%20%20AI%20Enthusiast%20%20•%20%20Open%20Source%20Contributor&descSize=20&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:6d5dfc&text=Yukta%20Thakur&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descSize=20&descAlignY=60"/>
+
 
 # Hi, I'm Yukta Thakur 👋
 
@@ -28,10 +29,15 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yukta062006&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+<p align="center">
 
-</div>
+<a href="https://github.com/Yukta062006?tab=followers">
+<img src="https://img.shields.io/github/followers/Yukta062006?label=Followers&style=for-the-badge&logo=github&color=2563EB"/>
+</a>
 
+<img src="https://komarev.com/ghpvc/?username=Yukta062006&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+
+</p>
 ---
 
 # About Me
