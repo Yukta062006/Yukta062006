@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,20:001F54,40:004E92,70:3B82F6,100:6D5DFC&text=Yukta%20Thakur&fontColor=ffffff&fontSize=68&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descSize=21&descAlignY=62"/>
 
+<p align="center">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750015-4bdfb0fb-2c58-44e4-bd9d-f0f5f4b37d2b.gif">
+</p>
+
 # Hi, I'm Yukta Thakur 👋
 
 ### Building modern web applications with AI and Full Stack technologies.
@@ -38,16 +42,18 @@
 
 </p>
 ---
+# 💫 About Me
 
-# About Me
+I'm **Yukta Thakur**, a Computer Science & Engineering student focused on creating innovative software that combines clean design, modern technology, and practical impact.
 
-I'm **Yukta Thakur**, a B.Tech Computer Science & Engineering student passionate about building scalable web applications, AI-powered solutions, and contributing to open-source projects.
+My interests span **Full Stack Development**, **Artificial Intelligence**, and **Open Source**, where I enjoy building applications that solve real-world challenges while continuously expanding my technical expertise.
 
 - Full Stack Web Development
 - Artificial Intelligence & Machine Learning
-- Modern UI/UX Development
-- Open Source Contributor
-- Always exploring new technologies
+- Responsive & Modern UI/UX Design
+- Open Source Collaboration
+- Scalable Software Development
+- Lifelong Learner
 
 ---
 
